@@ -6,32 +6,32 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les `structures` de base du langage ❌ / ✔️
-- les normes `ecmascript` ❌ / ✔️
-- l'utilisation de l'`asynchrone` ❌ / ✔️
-- les spécifités du mot-clef `this` ❌ / ✔️
+- les `structures` de base du langage  ✔️
+- les normes `ecmascript` ✔️
+- l'utilisation de l'`asynchrone` ✔️
+- les spécificités du mot-clef `this` ✔️
 
 ## 💻 Je code en Javascript
 
-### Un exemple de code commenté ❌ / ✔️
+### Un exemple de code commenté  ✔️
 
 ```javascript
-(e) => mc2;
+wilders.splice(index, 1, wilderToUpdate); // replace wilder into wilders
 ```
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet  ✔️
 
-[lien github](...)
+[lien github](https://github.com/VanTej/OCR-React-Int)
 
-Description :
+Description : initiation à React
 
-### J'ai utilisé ce langage en production ❌ / ✔️
+### J'ai utilisé ce langage en production ❌
 
 [lien du projet](...)
 
 Description :
 
-### J'ai utilisé ce langage en environement professionnel ❌ / ✔️
+### J'ai utilisé ce langage en environnement professionnel ❌
 
 Description :
 
@@ -39,14 +39,16 @@ Description :
 
 ### Titre
 
-- lien
-- description
+- [](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+- [](https://www.w3schools.com/js/)
+- description : documentation js
 
 ## 🚧 Je franchis les obstacles
 
 ### Point de blocage ❌ / ✔️
 
 Description:
+- fonctions map, filter, find, reduce, for-in, for-of à approfondir
 
 Plan d'action : (à valider par le formateur)
 
@@ -58,6 +60,6 @@ Résolution :
 
 ## 📽️ J'en fais la démonstration
 
-- J'ai ecrit un [tutoriel](...) ❌ / ✔️
+- J'ai écrit un [tutoriel](...) ❌ / ✔️
 - J'ai fait une [présentation](...) ❌ / ✔️
 

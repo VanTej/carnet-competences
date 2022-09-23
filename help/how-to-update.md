@@ -1,6 +1,6 @@
 # Comment mettre à jour le carnet de compétences ?
 
-> Au fur et à mesure de la formation de nouvelles compétences seront ajoutées au dépôt d'origine. Les commandes suivantes te permettront de mettre à jour ton dépôt tout en gardant tes modifictations
+> Au fur et à mesure de la formation de nouvelles compétences seront ajoutées au dépôt d'origine. Les commandes suivantes te permettront de mettre à jour ton dépôt tout en gardant tes modifications
 
 1. Configurer le remote
 

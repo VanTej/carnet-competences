@@ -6,30 +6,37 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- l'état (_state_) pour contrôler l'affichage d'un composant ❌ / ✔️
-- les composants enfants et les _props_ qu'on leur passe ❌ / ✔️
-- le déclenchement d'instructions en fonction des actions de l'utilisateur ❌ / ✔️
-- le déclenchement d'instructions en fonction de l'étape du cycle de vie du composant ou du changement de valeur de ses props ❌ / ✔️
-- l'usage d'un reducer (_useReducer_) pour gérer un état composé dans un composant
-- l'état stocké dans un composant avec un _context provider_ et accessible dans ses descendants via `useContext` ❌ / ✔️
+- l'état (_state_) pour contrôler l'affichage d'un composant ✔️
+- les composants enfants et les _props_ qu'on leur passe ✔️
+- le déclenchement d'instructions en fonction des actions de l'utilisateur ✔️
+- le déclenchement d'instructions en fonction de l'étape du cycle de vie du composant ou du changement de valeur de ses props ✔️
+- l'usage d'un reducer (_useReducer_) pour gérer un état composé dans un composant ❌
+- l'état stocké dans un composant avec un _context provider_ et accessible dans ses descendants via `useContext` ❌
 
 ## 💻 J'utilise
 
-### Un exemple personnel commenté ❌ / ✔️
+### Un exemple personnel commenté ✔️
 
-### Utilisation dans un projet ❌ / ✔️
+```javascript
+// fetch data from api when the component is amounted
+  useEffect(() => {
+    getDataApi();
+  }, []);
+```
 
-[lien github](...)
+### Utilisation dans un projet ✔️
 
-Description :
+[lien github](https://github.com/VanTej/OCR-React-Int)
 
-### Utilisation en production si applicable❌ / ✔️
+Description : initiation à React
+
+### Utilisation en production si applicable ❌
 
 [lien du projet](...)
 
 Description :
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environnement professionnel ❌
 
 Description :
 
@@ -37,14 +44,14 @@ Description :
 
 ### Titre
 
-- lien
-- description
+- lien [](https://fr.reactjs.org/docs/getting-started.html) et [](https://beta.reactjs.org/learn)
+- description : documentations React
 
 ## 🚧 Je franchis les obstacles
 
 ### Point de blocage ❌ / ✔️
 
-Description:
+Description: je manque de créativité et je perds beaucoup de temps pour le design 
 
 Plan d'action : (à valider par le formateur)
 
@@ -56,5 +63,5 @@ Résolution :
 
 ## 📽️ J'en fais la démonstration
 
-- J'ai ecrit un [tutoriel](...) ❌ / ✔️
+- J'ai écrit un [tutoriel](...) ❌ / ✔️
 - J'ai fait une [présentation](...) ❌ / ✔️

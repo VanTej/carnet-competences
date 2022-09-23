@@ -6,8 +6,8 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- Comment développer en utilisant un système de *livereloading* (`nodemon` par exemple) ❌ / ✔️
-- La connexion de mon application à une base de données avec et sans ORM/ODM (avec `mongodb` puis `mongoose` par exemple) ❌ / ✔️
+- Comment développer en utilisant un système de *livereloading* (`nodemon` par exemple) ✔️
+- La connexion de mon application à une base de données avec et sans ORM/ODM (avec `mongodb` puis `mongoose` par exemple) ✔️
 - Le développement d'une API REST et GraphQL (avec les packages `express` et `graphql` par exemple) ❌ / ✔️
 - *Bonus : la manipulation des fichiers système avec `fs` et l'utilisation des streams en NodeJS* ❌ / ✔️
 
@@ -21,19 +21,19 @@
 const convertMDFileToHTML = (pathToMDfile) => /* ... path to HTML file */
 ```
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet ✔️
 
-[lien github](...)
+[lien github](https://github.com/VanTej/ocr-node)
 
-Description :
+Description : initiation node
 
-### Utilisation en production si applicable❌ / ✔️
+### Utilisation en production si applicable ❌
 
 [lien du projet](...)
 
 Description :
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environnement professionnel ❌
 
 Description :
 
@@ -41,14 +41,14 @@ Description :
 
 ### Titre
 
-- lien
-- description
+- lien [](https://nodejs.org/fr/docs/)
+- description : documentation Node
 
 ## 🚧 Je franchis les obstacles
 
 ### Point de blocage ❌ / ✔️
 
-Description:
+Description: utilisation de l'ORM typeorm à approfondir
 
 Plan d'action : (à valider par le formateur)
 
